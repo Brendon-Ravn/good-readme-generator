@@ -18,16 +18,22 @@ function generateMarkdown(data) {
 
 ## Project URl
   ${data.url}
+  <br />
 ## Installation 
   ${data.install}
+  <br />
 ## License 
   ${data.license}
+  <br />
 ## Contribute
   ${data.contribute}
+  <br />
 ## Repo Info
   ${data.repo}
+  <br />
 ## Test
   ${data.test}
+  <br />
 ## Questions
   My email: ${data.email}
   <br />

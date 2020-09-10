@@ -14,18 +14,22 @@
 * [Tests](#test)
 * [Questions](#questions)
 
+![](./utils/readme1.gif)
+<br />
+![](./utils/readme2.gif)
+
 ## Project URl
   https://github.com/Brendon-Ravn/good-readme-generator
-
+<br />
 ## Installation 
   npm fs, path, and inquirer
-
+<br />
 ## License 
   MIT
-
+<br />
 ## Contribute
   Email me.
-  
+<br />
 ## Questions
   My email: b.conatser21@gmail.com
   <br />
