@@ -8,13 +8,13 @@ function generateMarkdown(data) {
 
 ## Table of Contents
 
-* Project URL
-* Installation
-* License
-* Contribute
-* Repo
-* Tests
-* Questions?
+* [Project URL](#project-url)
+* [Installation](#installation)
+* [License](#license)
+* [Contribute](#contribute)
+* [Repo](#repo-info)
+* [Tests](#test)
+* [Questions](#questions)
 
 ## Project URl
   ${data.url}
@@ -28,8 +28,9 @@ function generateMarkdown(data) {
   ${data.repo}
 ## Test
   ${data.test}
-## Questions?
+## Questions
   My email: ${data.email}
+  <br />
   My GitHub: ${data.username}
 `;
 }
