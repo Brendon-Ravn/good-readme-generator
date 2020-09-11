@@ -14,6 +14,10 @@
 * [Tests](#test)
 * [Questions](#questions)
 
+![](./utils/readme1.gif)
+<br />
+![](./utils/readme2.gif)
+
 ## Project URl
   https://github.com/Brendon-Ravn/good-readme-generator
   <br />
