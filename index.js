@@ -60,7 +60,7 @@ const questions = [
 function writeToFile(fileName, data) {
     console.log(fileName);
     console.log(data);
-    fs.writeFile(path.join(process.cwd(), fileName), data, err=> {
+    fs.writeFile(path.join(process.cwd(), fileName), data, err => {
         if (err) throw err;
         console.log("Saved")
     });
