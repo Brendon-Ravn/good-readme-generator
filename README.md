@@ -1,6 +1,6 @@
 
 # My Readme Generator
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  ![](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Description
   This app lets you generate a readme.md file for your project by answering a few questions.
 
@@ -14,25 +14,22 @@
 * [Tests](#test)
 * [Questions](#questions)
 
-![](./utils/readme1.gif)
-<br />
-![](./utils/readme2.gif)
-
 ## Project URl
   https://github.com/Brendon-Ravn/good-readme-generator
-<br />
+  <br />
 ## Installation 
   node js, npm fs, npm path, and npm inquirer
-<br />
+  <br />
+## License 
+  MIT
+  <br />
+## Contribute
+   Email me.
+  <br />
 ## Usage
   Open the terminal and run "node index.js". You will then be prompted to answer a few questions.<br />
   When you are finished it will generate a Readme.md file for your project.
-## License 
-  MIT
-<br />
-## Contribute
-  Email me.
-<br />
+  <br />
 ## Questions
   My email: b.conatser21@gmail.com
   <br />

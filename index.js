@@ -47,8 +47,8 @@ const questions = [
     },
     {
      type: "input",
-     name: "repo",
-     message:"What does the user need to know about using the repo?"
+     name: "usage",
+     message:"What does the user need to know about using the app?"
     },
     {
      type: "input",
@@ -58,8 +58,6 @@ const questions = [
 ];
 
 function writeToFile(fileName, data) {
-    console.log(fileName);
-    console.log(data);
     fs.writeFile(path.join(process.cwd(), fileName), data, err => {
         if (err) throw err;
         console.log("Saved")

@@ -2,7 +2,7 @@ function generateMarkdown(data) {
   console.log(data);
   return `
 # ${data.project}
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  ![](https://img.shields.io/badge/license-${data.license}-blue.svg)
 ## Description
   ${data.description}
 
@@ -12,7 +12,7 @@ function generateMarkdown(data) {
 * [Installation](#installation)
 * [License](#license)
 * [Contribute](#contribute)
-* [Repo](#repo-info)
+* [Usage](#usage)
 * [Tests](#test)
 * [Questions](#questions)
 
@@ -28,7 +28,7 @@ function generateMarkdown(data) {
 ## Contribute
   ${data.contribute}
   <br />
-## Repo Info
+## Usage
   ${data.repo}
   <br />
 ## Test
