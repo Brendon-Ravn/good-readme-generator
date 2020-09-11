@@ -16,7 +16,7 @@ function generateMarkdown(data) {
 * [Tests](#test)
 * [Questions](#questions)
 
-## Project URl
+## Project URL
   ${data.url}
   <br />
 ## Installation 
