@@ -18,7 +18,7 @@
 <br />
 ![](./utils/readme2.gif)
 
-## Project URl
+## Project URL
   https://github.com/Brendon-Ravn/good-readme-generator
   <br />
 ## Installation 
