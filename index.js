@@ -1,5 +1,4 @@
 const fs = require("fs");
-const path = require('path')
 const inquirer = require("inquirer");
 const generateMarkdown = require("./utils/generateMarkdown");
 
@@ -60,7 +59,7 @@ const questions = [
 function writeToFile(fileName, data) {
     fs.writeFile(path.join(process.cwd(), fileName), data, err => {
         if (err) throw err;
-        console.log("Saved")
+        console.log("Readme is ready!")
     });
 };
 
