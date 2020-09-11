@@ -22,8 +22,11 @@
   https://github.com/Brendon-Ravn/good-readme-generator
 <br />
 ## Installation 
-  npm fs, path, and inquirer
+  node js, npm fs, npm path, and npm inquirer
 <br />
+## Usage
+  Open the terminal and run "node index.js". You will then be prompted to answer a few questions.<br />
+  When you are finished it will generate a Readme.md file for your project.
 ## License 
   MIT
 <br />
