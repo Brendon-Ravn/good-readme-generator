@@ -22,7 +22,7 @@
   https://github.com/Brendon-Ravn/good-readme-generator
   <br />
 ## Installation 
-  node js, npm fs, and npm inquirer
+  node js, npm fs, npm path, and npm inquirer
   <br />
 ## License 
   MIT
