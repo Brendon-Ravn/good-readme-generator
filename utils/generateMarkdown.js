@@ -29,7 +29,7 @@ function generateMarkdown(data) {
   ${data.contribute}
   <br />
 ## Usage
-  ${data.repo}
+  ${data.usage}
   <br />
 ## Test
   ${data.test}
